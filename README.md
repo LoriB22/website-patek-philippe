@@ -46,5 +46,3 @@ All trademarks, product images, and brand names belong to their respective owner
 ## 👩‍💻 Author
 
 **Lorena Ballkoçi**  
-[GitHub](https://github.com/LoriB22) 
-
