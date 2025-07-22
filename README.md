@@ -27,21 +27,24 @@ A modern, responsive luxury watch showcase website inspired by Patek Philippe. T
 
 ---
 
-🙌 Credits
-Inspired by Patek Philippe
+## 🙌 Credits
 
-Images from Patek Media Library
-
-Fonts from Google Fonts
-
-Carousel by Glide.js
+- Inspired by Patek Philippe  
+- Images from Patek Media Library  
+- Fonts from Google Fonts  
+- Carousel by Glide.js  
 
 ---
 
-📄 License
-This project is for educational and non-commercial use only. All trademarks, product images, and brand names belong to their respective owners.
+## 📄 License
+
+This project is for **educational and non-commercial** use only.  
+All trademarks, product images, and brand names belong to their respective owners.
 
 ---
 
-👩‍💻 Author
-Lorena Ballkoçi  | GitHub
+## 👩‍💻 Author
+
+**Lorena Ballkoçi**  
+[GitHub](https://github.com/LoriB22) 
+
